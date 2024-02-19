@@ -9,4 +9,4 @@ This tool is a quick, no-fuss buddy for converting between binary digits and dec
 
 To start using BinaryFlipper, visit the Mozilla Add-ons page and add it to your Firefox browser:
 
-[Download BinaryFlipper](https://addons.mozilla.org/en-US/firefox/addon/binary-flipper/)
+[Add BinaryFlipper to Firefox](https://addons.mozilla.org/en-US/firefox/addon/binary-flipper/)
